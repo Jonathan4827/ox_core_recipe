@@ -208,7 +208,3 @@ tasks:
     src: https://github.com/Bob74/bob74_ipl
     ref: master
     dest: ./resources/bob74_ipl
-
-  ## cleanup
-  - action: remove_path
-    path: ./tmp
